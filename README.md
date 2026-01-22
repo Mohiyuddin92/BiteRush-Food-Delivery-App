@@ -137,8 +137,7 @@ Use the admin panel to manage orders, menu items.
 # 📞 Contact :
 <img width="1260" height="567" alt="Screenshot 2026-01-22 101343" src="https://github.com/user-attachments/assets/f3c606d0-66dc-4a3a-bbdd-19361cc63683" />
 # ❤️ Payment :
-![Capture8](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/c85e4c11-7ebf-4e45-8678-4000abde835d)
-
+<img width="1678" height="737" alt="Screenshot 2026-01-22 103646" src="https://github.com/user-attachments/assets/9586624c-ec62-40f5-90c2-57bb0158a2db" />
 ## 📜 API Documentation
 The API endpoints for the backend can be documented using tools like Postman or Swagger. Include endpoints for user authentication, menu items, orders, and more.
 
