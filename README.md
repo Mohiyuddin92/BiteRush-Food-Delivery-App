@@ -129,11 +129,11 @@ Use the admin panel to manage orders, menu items.
 # 🍔 Menu :
 ![Capture2](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/22fc6a58-b713-4ab7-babb-cff5844e7c55)
 # 🍱 Menu Food :
-![Capture3](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/0f7fe1ab-8c29-4fa2-bdb2-7212994cdf80)
+<img width="1260" height="567" alt="Screenshot 2026-01-22 101343" src="https://github.com/user-attachments/assets/bdbe0a46-89e4-4a00-a027-190aff9c9ef1" />
 # ℹ️ App Download : 
 <img width="1246" height="754" alt="Screenshot 2026-01-22 100955" src="https://github.com/user-attachments/assets/99766768-d902-4dee-a01a-3a06d9e8f15f" />
 # 🍱 Menu Food :
-![Capture5](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/34e366fa-8ee5-4f77-a5e0-d5d4ea294672)
+<img width="1260" height="567" alt="Screenshot 2026-01-22 101343" src="https://github.com/user-attachments/assets/1b25b3ac-114c-4c78-aed2-eed1e9e0bcb9" />
 # 🛒 Cart : 
 <img width="1665" height="890" alt="Screenshot 2026-01-22 101112" src="https://github.com/user-attachments/assets/a2730115-92b6-4e21-9b79-be3a63ab670f" />
 # 📞 Contact :
