@@ -135,7 +135,7 @@ Use the admin panel to manage orders, menu items.
 # 🛒 Cart : 
 <img width="1665" height="890" alt="Screenshot 2026-01-22 101112" src="https://github.com/user-attachments/assets/a2730115-92b6-4e21-9b79-be3a63ab670f" />
 # 📞 Contact :
-<img width="1260" height="567" alt="Screenshot 2026-01-22 101343" src="https://github.com/user-attachments/assets/f3c606d0-66dc-4a3a-bbdd-19361cc63683" />
+<img width="1536" height="1024" alt="ChatGPT Image Jan 22, 2026, 10_47_48 AM" src="https://github.com/user-attachments/assets/7c8ebc6d-3a92-41be-84c4-d1d7579d4cc1" />
 # ❤️ Payment :
 <img width="1678" height="737" alt="Screenshot 2026-01-22 103646" src="https://github.com/user-attachments/assets/9586624c-ec62-40f5-90c2-57bb0158a2db" />
 ## 📜 API Documentation
