@@ -129,11 +129,9 @@ Use the admin panel to manage orders, menu items.
 # 🍔 Menu :
 <img width="1578" height="847" alt="Screenshot 2026-01-22 102311" src="https://github.com/user-attachments/assets/b58590b8-afc0-450e-b51d-6f7a6a1292a1" />
 # 🍱 Menu Food :
-<img width="1260" height="567" alt="Screenshot 2026-01-22 101343" src="https://github.com/user-attachments/assets/bdbe0a46-89e4-4a00-a027-190aff9c9ef1" />
+<img width="1568" height="880" alt="Screenshot 2026-01-22 102443" src="https://github.com/user-attachments/assets/5825d509-b7bf-480c-a725-c282110ea8d7" />
 # ℹ️ App Download : 
 <img width="1246" height="754" alt="Screenshot 2026-01-22 100955" src="https://github.com/user-attachments/assets/99766768-d902-4dee-a01a-3a06d9e8f15f" />
-# 🍱 Menu Food :
-<img width="1260" height="567" alt="Screenshot 2026-01-22 101343" src="https://github.com/user-attachments/assets/1b25b3ac-114c-4c78-aed2-eed1e9e0bcb9" />
 # 🛒 Cart : 
 <img width="1665" height="890" alt="Screenshot 2026-01-22 101112" src="https://github.com/user-attachments/assets/a2730115-92b6-4e21-9b79-be3a63ab670f" />
 # 📞 Contact :
