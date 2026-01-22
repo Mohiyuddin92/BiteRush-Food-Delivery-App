@@ -120,12 +120,12 @@ Pay using dummy visa card
 Use the admin panel to manage orders, menu items.
 
 ## 📸 Screenshots
-# 🏠 Home : 
-![1](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/b3d604f0-ae0e-4e29-9b95-51f6327c3952)
+# 🏠 Home :
+<img width="1627" height="858" alt="Screenshot 2026-01-22 100757" src="https://github.com/user-attachments/assets/e1a564a2-6db3-4efd-a950-2bf4b0c66335" />
 # 🔐 Login : 
-![2](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/0cb56d94-a715-48bd-9a7d-05c876a05b2c)
+<img width="1602" height="851" alt="Screenshot 2026-01-22 100821" src="https://github.com/user-attachments/assets/3fe70528-92ba-494f-9b18-7c5fb159c3a3" />
 # 🔐 Signup : 
-![3](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/f5dd216a-dc8d-4042-9a96-4884cdb17aef)
+<img width="1674" height="845" alt="Screenshot 2026-01-22 100856" src="https://github.com/user-attachments/assets/65a39a4a-a262-451c-8b46-171ff4000e50" />
 # 🍔 Menu :
 ![Capture2](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/22fc6a58-b713-4ab7-babb-cff5844e7c55)
 # 🍱 Menu Food :
