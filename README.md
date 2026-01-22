@@ -125,9 +125,9 @@ Use the admin panel to manage orders, menu items.
 # 🔐 Login : 
 <img width="1602" height="851" alt="Screenshot 2026-01-22 100821" src="https://github.com/user-attachments/assets/3fe70528-92ba-494f-9b18-7c5fb159c3a3" />
 # 🔐 Signup : 
-<img width="1674" height="845" alt="Screenshot 2026-01-22 100856" src="https://github.com/user-attachments/assets/65a39a4a-a262-451c-8b46-171ff4000e50" />
+<img width="1674" height="845" alt="Screenshot 2026-01-22 100856" src="https://github.com/user-attachments/assets/2f1ee01a-f023-4c85-9d3f-db9ecb0b6c82" />
 # 🍔 Menu :
-![Capture2](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/22fc6a58-b713-4ab7-babb-cff5844e7c55)
+<img width="1578" height="847" alt="Screenshot 2026-01-22 102311" src="https://github.com/user-attachments/assets/b58590b8-afc0-450e-b51d-6f7a6a1292a1" />
 # 🍱 Menu Food :
 <img width="1260" height="567" alt="Screenshot 2026-01-22 101343" src="https://github.com/user-attachments/assets/bdbe0a46-89e4-4a00-a027-190aff9c9ef1" />
 # ℹ️ App Download : 
@@ -138,7 +138,6 @@ Use the admin panel to manage orders, menu items.
 <img width="1665" height="890" alt="Screenshot 2026-01-22 101112" src="https://github.com/user-attachments/assets/a2730115-92b6-4e21-9b79-be3a63ab670f" />
 # 📞 Contact :
 <img width="1260" height="567" alt="Screenshot 2026-01-22 101343" src="https://github.com/user-attachments/assets/f3c606d0-66dc-4a3a-bbdd-19361cc63683" />
-![Capture7](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/1a94b8aa-aa4e-4991-9d45-f6548f793b47)
 # ❤️ Payment :
 ![Capture8](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/c85e4c11-7ebf-4e45-8678-4000abde835d)
 
